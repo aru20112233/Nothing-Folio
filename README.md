@@ -5,7 +5,7 @@ Built using HTML, CSS and JavaScript to deliver a responsive and modern web expe
 
 ## 🌐 Live Preview
 
-[Visit Nothing-Folio](https://your-live-link.com)
+[Visit Nothing-Folio]([https://your-live-link.com](https://aru20112233.github.io/Nothing-Folio/))
 
 ## ✨ Features
 
